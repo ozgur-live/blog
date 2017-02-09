@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This file file serves as your book's preface, a great place to describe your book's content and ideas.",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "devDependencies": {},
+ "scripts": {
+   "docs:prepare": "gitbook install",
+   "docs:watch": "npm run docs:prepare && gitbook serve"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozgur-live/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozgur-live/blog/issues"
+  },
+  "homepage": "https://github.com/ozgur-live/blog#readme"
+}
