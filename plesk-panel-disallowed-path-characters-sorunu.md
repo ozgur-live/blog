@@ -19,10 +19,10 @@ Plesk Panele giriş yaparak sorun yaşadığınız hesaba ulaşın.Hesabınız a
 
 Bu bölüme giriş yaptıktan sonra karşınıza gelen sayfada **Directory Properties** bölümüne giriş yapın.
 
-![Virtual Directories](/img/bilgibankasi/disallowed2.png "Virtual Directories")
+![Plesk2](/assets/plsk2.png)
 
 Karşınıza gelen sayfa üzerinde **Allow to use parent paths** bölümünü göreceksiniz.Bu ayarın sağ tarafındaki kutucuğu işaretleyerek kaydedin.
 
-![Virtual Directories](/img/bilgibankasi/disallowed3.png "Virtual Directories")
+![Plesk3](/assets/plsk3.png)
 
 Bu adımları eksiksiz olarak yaptığınızda aldığınız karakter hatasının düzeldiğini göreceksiniz.
